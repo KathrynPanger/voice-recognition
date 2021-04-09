@@ -1,0 +1,7 @@
+*.mp3
+manifesto/*.mp3
+**/manifesto/*.mp3
+**/me/*.mp3
+**/pride/*.mp3
+**/war/*.mp3
+
